@@ -19,6 +19,27 @@ A polished, read-only Linux/Kali system health monitor and diagnostics dashboard
 - Commands support category navigation, permission badges, favorites and one-click copy-to-clipboard
 - Existing diagnostic collectors and APIs remain read-only and collector failures remain isolated
 
+
+## Screenshots
+
+### Dashboard
+![Kali Health Checker Dashboard](screenshots/dashboard.png)
+
+### Processes
+![Processes](screenshots/process.png)
+
+### Network
+![Network](screenshots/network.png)
+
+### Memory
+![Memory](screenshots/memory.png)
+
+### Diagnostic
+![Diagnostic](screenshots/diagnostic.png)
+
+### Commands
+![Helping Commands](screenshots/helpcommands.png)
+
 ## Install
 ```bash
 cd ~/Downloads
