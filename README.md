@@ -28,8 +28,6 @@ A polished, read-only Linux/Kali system health monitor and diagnostics dashboard
 ### Processes
 ![Processes](screenshots/process.png)
 
-### Network
-![Network](screenshots/network.png)
 
 ### Memory
 ![Memory](screenshots/memory.png)
